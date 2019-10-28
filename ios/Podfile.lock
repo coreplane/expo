@@ -2654,6 +2654,7 @@ SPEC CHECKSUMS:
   EXCrypto: bfcc3236abe7a6f16017f79129f3dd85f9732778
   EXDevice: fd3b1b55f2547b7d51e5e093569a1fb678cce946
   EXDocumentPicker: 15acaac45e3c4060eff044cddceb6a8494fb58c1
+  EXErrorRecovery: d36db99ec6a3808f313f01b0890eb443796dd1c2
   EXFacebook: 165670d591c87e48aa31faf73eedab5eaae5c7ef
   EXFaceDetector: c436467d9f3f892fbffa6f471d46431bcbae2788
   EXFileSystem: 6ecb14b5c5557a5208d4474487d2eb1edef6892c
